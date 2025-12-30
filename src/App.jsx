@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>김흥욱 어흥욱 끼얏허허이야지잉펑펑펑</h1>
+      <h1>긍이애옹 빛이애옹 곰이애옹 콩콩이애옹</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
