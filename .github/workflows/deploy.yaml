@@ -35,4 +35,4 @@ jobs:
         run: aws s3 cp ./dist s3://oz-coding-web --recursive
 
       - name: CloudFront 캐시 무효화
-        run: aws cloudfront create-invalidation --distridution-id E30UKT4HQX68W --paths "/*"
+        run: aws cloudfront create-invalidation --distribution-id E30UKT4HQX68W --paths "/*"
