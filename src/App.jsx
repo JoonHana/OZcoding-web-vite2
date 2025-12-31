@@ -18,7 +18,8 @@ function App() {
       </div>
       <h1> 문예진 & 최이란 듀오 리사이틀 </h1>
       <h1> 2026. 02. 12 목 19:30 </h1>
-      <h1> 예술의 전당 인춘아트홀 </h1>
+      <h1> 예술의 전당 </h1>
+      <h1> 인춘아트홀 </h1>
       <h1> 많관부 </h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
